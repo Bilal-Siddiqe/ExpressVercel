@@ -14,6 +14,11 @@ const data = [
         name: "Hanzala",
         id: 35321346,
         mode: true
+    },
+    {
+        name: "ALi",
+        id: 35321346,
+        mode: false
     }
 ]
 app.get('/', (req, res) => {
